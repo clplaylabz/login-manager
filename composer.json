@@ -3,6 +3,6 @@
     "type": "plugin",
     "description": "A test plugin for managing user logins.",
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.1"
     }
 }
