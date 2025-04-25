@@ -1,0 +1,10 @@
+{
+    "name": "cl/login-manager",
+    "type": "plugin",
+    "description": "A test plugin for managing user logins.",
+    "license": "MIT",
+    "require": {
+        "php": ">=8.2",
+        "another-vendor/package": "1.*"
+    }
+}
