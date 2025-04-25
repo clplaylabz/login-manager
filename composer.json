@@ -1,5 +1,5 @@
 {
-    "name": "cl/login-manager",
+    "name": "clplaylabz/login-manager",
     "type": "plugin",
     "description": "A test plugin for managing user logins.",
     "license": "MIT",
